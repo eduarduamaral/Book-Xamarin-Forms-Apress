@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C4D36208-8EB4-4C66-82B7-C3B7A60DCA6E}|Default">
+  <MonoDevelop.Ide.ItemProperties.FormsExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.270E617E-4EF6-45C0-B883-200D5AB846CD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormsExample/ContentPageExample.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="13" Column="59" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="FormsExample/ContentPageExample.cs" Line="10" Column="8" />
+      <File FileName="FormsExample/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FormsExample.Droid PreferredExecutionTarget="Android.LGD805e928bad" />
+</Properties>
